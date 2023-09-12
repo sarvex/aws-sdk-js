@@ -36,7 +36,7 @@
     "mocha": "^10.2.0",
     "repl.history": "*",
     "semver": "*",
-    "typescript": "2.0.8",
+    "typescript": "5.2.2",
     "uglify-js": "2.x",
     "webpack": "^1.15.0"
   },
