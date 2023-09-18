@@ -37,7 +37,7 @@
     "repl.history": "*",
     "semver": "*",
     "typescript": "5.2.2",
-    "uglify-js": "2.x",
+    "uglify-js": "3.x",
     "webpack": "^5.88.2"
   },
   "dependencies": {
