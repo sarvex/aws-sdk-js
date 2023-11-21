@@ -16,7 +16,7 @@
     "Trevor Rowe <trevrowe@amazon.com>"
   ],
   "devDependencies": {
-    "@types/node": "20.9.2",
+    "@types/node": "20.9.3",
     "browserify": "17.0.0",
     "chai": "4.3.10",
     "codecov": "3.8.3",
