@@ -38,7 +38,7 @@
     "semver": "7.5.4",
     "typescript": "5.3.3",
     "uglify-js": "3.17.4",
-    "webpack": "5.89.0"
+    "webpack": "5.90.1"
   },
   "dependencies": {
     "buffer": "6.0.3",
