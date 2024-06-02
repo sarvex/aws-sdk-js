@@ -33,7 +33,7 @@
     "karma": "6.4.3",
     "karma-chrome-launcher": "3.2.0",
     "karma-jasmine": "5.1.0",
-    "mocha": "10.2.0",
+    "mocha": "10.4.0",
     "repl.history": "0.1.4",
     "semver": "7.6.2",
     "typescript": "5.3.3",
